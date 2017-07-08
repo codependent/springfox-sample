@@ -1,0 +1,3 @@
+server:
+  servlet-path: /api
+  context-path: /myApp
